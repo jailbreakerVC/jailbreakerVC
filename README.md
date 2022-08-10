@@ -5,7 +5,7 @@
 <!--   https://assets.hongkiat.com/uploads/minimalist-dekstop-wallpapers/4k/original/14.jpg?3 -->
 ##    Hi there 👋
 - 🔭 I’m currently working on web development
-
+- 💻 I'm doing B.Tech(CSE).
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
